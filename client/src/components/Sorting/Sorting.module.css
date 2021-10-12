@@ -1,0 +1,49 @@
+.sorting{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sortOption{
+    width: 20%;
+    height: 100vh;
+    background-color: rgb(173, 169, 169);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sortOption button{
+    margin: 10%;
+    font-size: 1.4rem;
+}
+.sortOption h2{
+    margin-bottom: 15%;
+}
+
+
+.view{
+    width: 50%;
+    display: flex;
+    flex-direction: column;    
+}
+.topnav{
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+.topnav button{
+    margin: 2%;
+}
+.array{
+    padding: 4%;
+}
+
+.code{
+    width: 30%;
+    background-color: rgb(173, 169, 169);
+
+}
