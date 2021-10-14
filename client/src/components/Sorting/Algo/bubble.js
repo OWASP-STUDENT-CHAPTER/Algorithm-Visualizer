@@ -1,9 +1,9 @@
 const bubble = (arr) =>{
     
     let i,j;
-    for(i=1;i<arr.length;i++)
+    for(i=0;i<arr.length-1;i++)
     {
-        for(j=1; j<arr.length-i-1; j++)
+        for(j=0; j<arr.length-i-1; j++)
         {
             if(arr[j+1]>arr[j])
             {             
