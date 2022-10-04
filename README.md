@@ -1,3 +1,5 @@
+![hacktoberfest](./assets/WhatsApp%20Image%202022-10-05%20at%2000.28.18.jpeg)
+
 # Algorithm-Visualizer
 Algorithm Visualiser is a web app that will help you in understanding the working of algorithms that are widely used in software development. Algorithms used for searching like binary search and sorting algorithms such as Bubble sort, Selection sort, etc. are explained through the means of this web app as the given array input is animated towards its final state and all the steps carried out by the algorithm’s code are executed visually.
 
